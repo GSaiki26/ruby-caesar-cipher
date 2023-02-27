@@ -1,0 +1,6 @@
+class CaesarCipher
+  alph: String
+
+  def self.create: (jump: Integer, text: String) -> String
+
+text: String
